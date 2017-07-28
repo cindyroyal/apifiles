@@ -28,7 +28,6 @@ count = "100"
 url = baseurl + '?q=' + searchterm + '&' + 'count=' + count
 
 # my keys, need all four of them. Use your own keys here.
-=
 consumer_key = "USE YOUR CREDENTIALS"
 consumer_secret = "USE YOUR CREDENTIALS"
 token_key = "USE YOUR CREDENTIALS"
