@@ -13,6 +13,6 @@ new_convert_json_to_csv.py - This file is modified from the one that Apan Qasem 
 
 Once you have the combined.csv, you can easily open in Excel and start anaylizing the data.
 
-There are example files to illustrate output for searches for #mcweek AND journalism.
+There is also a Word Frequency script in the repo. Put your text in a .txt file. Run wordfreq.py and use put that file as the input file. Give the output file a name with a .txt extension. Then you can open the file in Excel and use it to analyze the data.
 
 Play with these files for your own searches. This is a good way to start working with data to see if there are interesting trends or stories in the data set.
